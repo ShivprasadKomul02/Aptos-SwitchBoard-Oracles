@@ -25,5 +25,9 @@
 Build the example program
 
 ```bash
-aptos move compile --named-addresses switchboard=default
+aptos move compile --named-addresses switchboard_feed_parser=default
 ```
+```bash
+aptos move publish --named-addresses switchboard_feed_parser=default
+```
+
