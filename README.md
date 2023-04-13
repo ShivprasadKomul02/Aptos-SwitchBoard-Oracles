@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1>sbv2-aptos / feed-parser</h1>
+  <h1>Switchboard Oracles in Move language</h1>
   <p>An example contract reading the price of aptos in USD using a Switchboard Aptos Test net Oracle </p>
 </div>
 
